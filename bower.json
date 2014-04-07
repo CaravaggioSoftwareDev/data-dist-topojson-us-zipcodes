@@ -1,0 +1,28 @@
+{
+  "name": "data-topojson-us-zipcodes",
+  "version": "2013.0.0",
+  "ignore": [
+    ".idea",
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "homepage": "https://github.com/data-dist/data-topojson-us-zipcodes",
+  "authors": [
+    "Jerry Orta <jerryorta@gmail.com>"
+  ],
+  "description": "Topojson geographic data for 2013 zip codes.",
+  "keywords": [
+    "topojson",
+    "data",
+    "zipcodes",
+    "zip",
+    "codes",
+    "us",
+    "census",
+    "postal"
+  ],
+  "license": "MIT"
+}
