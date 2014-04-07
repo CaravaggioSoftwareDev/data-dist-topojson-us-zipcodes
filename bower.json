@@ -1,5 +1,5 @@
 {
-  "name": "data-topojson-us-zipcodes",
+  "name": "data-dist-topojson-us-zipcodes",
   "version": "2013.0.0",
   "ignore": [
     ".idea",
@@ -9,7 +9,7 @@
     "test",
     "tests"
   ],
-  "homepage": "https://github.com/data-dist/data-topojson-us-zipcodes",
+  "homepage": "https://github.com/data-dist/data-dist-topojson-us-zipcodes.git",
   "authors": [
     "Jerry Orta <jerryorta@gmail.com>"
   ],
